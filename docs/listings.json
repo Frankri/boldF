@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/r-markdown-manuals/r-markdown.manuals.html",
       "/posts/Tatort Toni/tatort-toni.html",
       "/posts/dead end/dead_end.html",
       "/posts/Azra/azra.html"

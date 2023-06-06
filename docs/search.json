@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "boldF",
     "section": "",
-    "text": "Hochamt für Toni\n\n\n\n\n\n\n\nKrimi\n\n\nSerie\n\n\nDeutsch\n\n\nTatort\n\n\nARD\n\n\n\n\n\n\n\n\n\n\n\nJun 5, 2023\n\n\nFrank\n\n\n\n\n\n\n  \n\n\n\n\nDead End\n\n\n\n\n\n\n\nKrimi\n\n\nSerie\n\n\nDeutsch\n\n\nZDFneo\n\n\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\nFrank\n\n\n\n\n\n\n  \n\n\n\n\nAzra\n\n\n\n\n\n\n\nKrimi\n\n\nSerie\n\n\nDeutsch\n\n\nTatort\n\n\nORF\n\n\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\nFrank\n\n\n\n\n\n\nNo matching items"
+    "text": "R Markdown Manuals\n\n\n\n\n\n\n\nR\n\n\nMarkdown\n\n\nPublishing\n\n\nLinks\n\n\n\n\n\n\n\n\n\n\n\nJun 6, 2023\n\n\nFrank\n\n\n\n\n\n\n  \n\n\n\n\nHochamt für Toni\n\n\n\n\n\n\n\nKrimi\n\n\nSerie\n\n\nDeutsch\n\n\nTatort\n\n\nARD\n\n\n\n\n\n\n\n\n\n\n\nJun 5, 2023\n\n\nFrank\n\n\n\n\n\n\n  \n\n\n\n\nDead End\n\n\n\n\n\n\n\nKrimi\n\n\nSerie\n\n\nDeutsch\n\n\nZDFneo\n\n\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\nFrank\n\n\n\n\n\n\n  \n\n\n\n\nAzra\n\n\n\n\n\n\n\nKrimi\n\n\nSerie\n\n\nDeutsch\n\n\nTatort\n\n\nORF\n\n\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\nFrank\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -75,5 +75,12 @@
     "title": "Hochamt für Toni",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nSinn gemäß zitiert↩︎"
+  },
+  {
+    "objectID": "posts/r-markdown-manuals/r-markdown.manuals.html",
+    "href": "posts/r-markdown-manuals/r-markdown.manuals.html",
+    "title": "R Markdown Manuals",
+    "section": "",
+    "text": "Einführungen in R\nEs geht um Markdown mit R/ R-Studio und im weitesten Sinne um Publishing weit weg von MS-Word.\n\nTutorial für Cross Media Publishing\n\nPhysik Libre das Ergebnis als Beispiel\n\nR Markdown Verknüpfung von R Code und Text\nForschungsseminar: Text as data\nhttps://bookdown.org/yihui/rmarkdown/\n\nTufte Style in R Markdown + Beispiel\n\nPhysik Libre\nStatistik mit R und RStudio\nR für Psychos"
   }
 ]
